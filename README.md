@@ -12,12 +12,6 @@ I always like to be learning, for now I am trained in different areas of compute
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sebascm-dev&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sebascm-dev&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sebascm-dev&theme=chalk&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sebascm-dev&limit=5&theme=chalk&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=sebascm-dev&icon=0&color=3)](https://visitcount.itsvg.in)
 
