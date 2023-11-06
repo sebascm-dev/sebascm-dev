@@ -11,10 +11,5 @@ I always like to be learning, for now I am trained in different areas of compute
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,php,powershell,bash,react,laravel,nodejs,wordpress,mysql,mongodb,firebase,netlify,docker,aws,azure,git,figma,vscode,atom)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebascm-dev&layout=compact)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=sebascm-dev&icon=0&color=3)](https://visitcount.itsvg.in)
