@@ -18,6 +18,8 @@ I always like to be learning, for now I am trained in different areas of compute
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sebascm-dev&limit=5&theme=chalk&combine_all_yearly_contributions=true)
 
+<img src="https://raw.githubusercontent.com/sebascm-dev/sebascm-dev/output/snake.svg" alt="Snake animation" />
+
 ---
 [![](https://visitcount.itsvg.in/api?id=sebascm-dev&icon=0&color=3)](https://visitcount.itsvg.in)
 
