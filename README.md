@@ -12,7 +12,7 @@ I always like to be learning, for now I am trained in different areas of compute
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,php,powershell,bash,react,laravel,nodejs,wordpress,mysql,mongodb,firebase,netlify,docker,aws,azure,git,figma,vscode,atom)](https://skillicons.dev)
 
 
-<img align="left" alt="sebascm-dev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sebascm-dev&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebascm-dev&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sebascm-dev&icon=0&color=3)](https://visitcount.itsvg.in)
