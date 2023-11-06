@@ -16,10 +16,12 @@ I always like to be learning, for now I am trained in different areas of compute
 
 ---
 
-### 📕 Latest Blog Posts
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+  <img align="left" alt="sebascm-dev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sebascm-dev&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sebascm-dev&icon=0&color=3)](https://visitcount.itsvg.in)
