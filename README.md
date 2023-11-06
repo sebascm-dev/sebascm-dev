@@ -11,6 +11,13 @@ I always like to be learning, for now I am trained in different areas of compute
 ![](https://github-readme-stats.vercel.app/api?username=sebascm-dev&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sebascm-dev&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sebascm-dev&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebascm-dev&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
+
+<br/>  
+
 ---
 [![](https://visitcount.itsvg.in/api?id=sebascm-dev&icon=0&color=3)](https://visitcount.itsvg.in)
 
