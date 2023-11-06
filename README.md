@@ -1,5 +1,5 @@
 # 💫 About Me:
-I always like to be learning, for now I am trained in different areas of computer science (frontend, backend, cybersecurity, server administration ...) I am very curious and I'm always looking for something to entertain me and learn. I hope to be able to dedicate myself professionally one day to what I like so much.
+I always like to be learning, for now I am trained in different areas of computer science (frontend, backend, web developer, cybersecurity, server administration) I am very curious and I'm always looking for something to entertain me and learn. I hope to be able to dedicate myself professionally one day to what I like so much.
 
 
 ## 🌐 Socials:
