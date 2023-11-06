@@ -7,7 +7,7 @@ I always like to be learning, for now I am trained in different areas of compute
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_sebascm_) 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@__sebascm__)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,php,powershell,bash,react,laravel,nodejs,wordpress,mysql,mongodb,firebase,netlify,docker,aws,azure,git,figma,vscode,atom)](https://skillicons.dev)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sebascm-dev&icon=0&color=3)](https://visitcount.itsvg.in)
