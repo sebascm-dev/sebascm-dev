@@ -13,7 +13,7 @@ I always like to be learning, for now I am trained in different areas of compute
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebascm-dev&layout=compact" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebascm-dev&layout=compact)
 </p>
 
 
